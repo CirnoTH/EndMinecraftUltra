@@ -22,5 +22,5 @@ jobs:
 
     - uses: actions/upload-artifact@v2
       with:
-        name: EndMinecraftUltra-1.16.4
-        path: target/EndMinecraftUltra-1.16.4.jar
+        name: EndMinecraftUltra-1.14.4
+        path: target/EndMinecraftUltra-1.14.4.jar
