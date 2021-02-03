@@ -191,11 +191,6 @@ public class DistributedBotAttack extends IAttack{
             public void packetSending(PacketSendingEvent event) {}
             public void packetSent(PacketSentEvent e){}
 
-            @Override
-            public void packetError(PacketErrorEvent packetErrorEvent) {
-
-            }
-
             public void connected(ConnectedEvent e){}
             public void disconnecting(DisconnectingEvent e){}
             public void disconnected(DisconnectedEvent e){
